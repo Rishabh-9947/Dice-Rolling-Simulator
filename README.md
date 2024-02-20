@@ -17,4 +17,4 @@ To run the Dice Rolling Simulator, you'll need:
 Once Python is installed, download the script and run it from your command line:
 
 ```bash
-python dice_rolling_simulator.py
+python Dice-Rolling-Simulator.py
